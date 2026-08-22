@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "July 01,2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+    },
+    {
+      "id": "2",
+      "title": " My Second Post",
+      "datetime": "July 02,2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod."
+    },
+    {
+      "id": "3",
+      "title": "My Third Post",
+      "datetime": "August 22, 2026 10:03:50 AM",
+      "body": "Hi "
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
